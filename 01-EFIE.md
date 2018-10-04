@@ -68,6 +68,23 @@ Then:
 
 ![Poynting-4](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cfrac%7B1%7D%7B2%7D%20%5Cleft%20%5Clangle%20%5Cmathbf%7BZ%7D%5Ccdot%5Cmathbf%7BJ%7D%2C%20%5Cmathbf%7BJ%7D%5E*%20%5Cright%20%5Crangle%20%3D%20%5Cfrac%7B1%7D%7B2%7D%20%5Cleft%20%5Clangle%20%5Cmathbf%7BR%7D%5Ccdot%5Cmathbf%7BJ%7D%2C%20%5Cmathbf%7BJ%7D%5E*%20%5Cright%20%5Crangle%20&plus;%20j%5Cfrac%7B1%7D%7B2%7D%20%5Cleft%20%5Clangle%20%5Cmathbf%7BX%7D%5Ccdot%5Cmathbf%7BJ%7D%2C%20%5Cmathbf%7BJ%7D%5E*%20%5Cright%20%5Crangle)
 
+Radiated power:
+
 ![Poynting-4a](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cfrac%7B1%7D%7B2%7D%20%5Cleft%20%5Clangle%20%5Cmathbf%7BR%7D%5Ccdot%5Cmathbf%7BJ%7D%2C%20%5Cmathbf%7BJ%7D%5E*%20%5Cright%20%5Crangle%20%3D%20%5Cfrac%7B1%7D%7B2%7D%5Coint_S%5Cleft%28%20%5Cmathbf%7BE%7D%5Ctimes%5Cmathbf%7BH%7D%5E*%20%5Cright%20%29dS)
 
+Stored power:
+
 ![Poynting-4b](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cfrac%7B1%7D%7B2%7D%20%5Cleft%20%5Clangle%20%5Cmathbf%7BX%7D%5Ccdot%5Cmathbf%7BJ%7D%2C%20%5Cmathbf%7BJ%7D%5E*%20%5Cright%20%5Crangle%20%3D%20%5Cfrac%7B%5Comega%7D%7B2%7D%5Cint_V%5Cleft%28%20%5Cmu%5Cleft%20%7C%20%5Cmathbf%7BH%7D%20%5Cright%20%7C%5E2%20-%20%5Cepsilon%5Cleft%20%7C%20%5Cmathbf%7BE%7D%20%5Cright%20%7C%5E2%20%5Cright%20%29dV)
+
+---
+**Weighted eigenvalue equation:**
+
+![WEE-1](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cmathbf%7BZ%7D%5Ccdot%5Cmathbf%7BJ%7D_n%20%3D%20%5Cnu_n%20%5Cmathbf%7BW%7D%5Ccdot%5Cmathbf%7BJ%7D_n)
+
+The operator **W** is a weighting variable. If **W** is set to **R** and expand **Z** to **R+jX**, then the original weighted eigenvalue equation is:
+
+![WEE-2](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cmathbf%7BX%7D%5Ccdot%5Cmathbf%7BJ%7D_n%20%3D%20%5Clambda_n%20%5Cmathbf%7BR%7D%5Ccdot%5Cmathbf%7BJ%7D_n)
+
+where
+
+![WEE-3](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cnu_n%20%3D%201%20&plus;%20%5Clambda_n)
