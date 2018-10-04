@@ -36,8 +36,10 @@ To express it by the induced surface current:
 
 To use a integro-differential operator to express the scattering field:
 
-![L-Operator](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cmathcal%7BL%7D%5Cleft%28%5Cmathbf%7Br%7D%20%5Cright%20%29%3D-%5Cmathbf%7BE%7D%5Es%5Cleft%28%5Cmathbf%7Br%7D%20%5Cright%20%29)
+![L-Operator](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cmathcal%7BL%7D%5Cleft%5B%20%5Cmathbf%7BJ%7D%5Cleft%20%28%20%5Cmathbf%7Br%7D%20%5Cright%20%29%20%5Cright%5D%20%3D%20-%5Cmathbf%7BE%7D%5Es%5Cleft%20%28%20%5Cmathbf%7Br%7D%20%5Cright%20%29)
 
 On the surface:
 
-![BC-With-Operator](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cleft%5B%20%5Cmathcal%7BL%7D%5Cleft%28%5Cmathbf%7Br%7D%20%5Cright%20%29-%5Cmathbf%7BE%7D%5Ei%5Cleft%28%5Cmathbf%7Br%7D%20%5Cright%20%29%20%5Cright%20%5D_%7B%5Ctext%7Btan%7D%7D%3D0%2C%20%5Cmathbf%7Br%7D%5Cin%20S)
+![BC-With-Operator](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cleft%5B%20%5Cmathcal%7BL%7D%5Cleft%20%5B%20%5Cmathbf%7BJ%7D%5Cleft%20%28%20%5Cmathbf%7Br%7D%20%5Cright%20%29%20%5Cright%20%5D%20-%20%5Cmathbf%7BE%7D%5Ei%5Cleft%20%28%20%5Cmathbf%7Br%7D%20%5Cright%20%29%20%5Cright%20%5D_%7B%5Ctext%7Btan%7D%7D%20%3D%200%2C%20%5Cmathbf%7Br%7D%5Cin%20S)
+
+
