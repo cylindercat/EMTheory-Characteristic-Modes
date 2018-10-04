@@ -87,7 +87,7 @@ The operator **W** is a weighting variable. If **W** is set to **R** and expand 
 
 where
 
-![WEE-3](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cnu_n%20%3D%201%20&plus;%20%5Clambda_n)
+![WEE-3](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cnu_n%20%3D%201%20&plus;%20j%5Clambda_n)
 
 The absolute value of eigenvalue is proportional to the total stored energy within a radiation or scattering problem.
 
