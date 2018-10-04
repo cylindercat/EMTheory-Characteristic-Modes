@@ -88,3 +88,8 @@ The operator **W** is a weighting variable. If **W** is set to **R** and expand 
 where
 
 ![WEE-3](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cnu_n%20%3D%201%20&plus;%20%5Clambda_n)
+
+---
+**Orthogonality:**
+
+![Orthogonality](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cleft%20%5Clangle%20%5Cmathbf%7BJ%7D_m%2C%20%5Cmathbf%7BZ%7D%5Ccdot%5Cmathbf%7BJ%7D_n%20%5Cright%20%5Crangle%20%3D%20%5Cleft%20%5Clangle%20%5Cmathbf%7BJ%7D_m%5E*%2C%20%5Cmathbf%7BZ%7D%5Ccdot%5Cmathbf%7BJ%7D_n%20%5Cright%20%5Crangle%3D%5Cleft%281&plus;j%5Clambda_n%20%5Cright%20%29%5Cdelta_%7Bmn%7D)
