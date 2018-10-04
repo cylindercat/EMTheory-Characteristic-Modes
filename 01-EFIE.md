@@ -89,6 +89,20 @@ where
 
 ![WEE-3](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cnu_n%20%3D%201%20&plus;%20%5Clambda_n)
 
+The absolute value of eigenvalue is proportional to the total stored energy within a radiation or scattering problem.
+
+Resonant mode:
+
+![WEE-R](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Clambda_n%20%3D%200)
+
+Inductive mode:
+
+![WEE-L](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Clambda_n%20%3E%200)
+
+Capacitive mode:
+
+![WEE-C](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Clambda_n%20%3C%200)
+
 ---
 **Orthogonality:**
 
