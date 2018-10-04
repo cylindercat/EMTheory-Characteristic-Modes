@@ -38,6 +38,14 @@ To use a integro-differential operator to express the scattering field:
 
 ![L-Operator](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cmathcal%7BL%7D%5Cleft%5B%20%5Cmathbf%7BJ%7D%5Cleft%20%28%20%5Cmathbf%7Br%7D%20%5Cright%20%29%20%5Cright%5D%20%3D%20-%5Cmathbf%7BE%7D%5Es%5Cleft%20%28%20%5Cmathbf%7Br%7D%20%5Cright%20%29)
 
+Additionally,this operator can be regarded as an impedance operator because the operator can be expressed as:
+
+![L-Operator-Z1](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cmathcal%7BL%7D%5Cleft%5B%5Cmathbf%7BJ%7D%5Cleft%28%5Cmathbf%7Br%7D%20%5Cright%20%29%20%5Cright%20%5D%3Dj%5Comega%5Cmu_0%5Ccdot%5Cfrac%7B1%7D%7B4%5Cpi%7D%5Cleft%5B%5Cint_S%5Cmathbf%7BJ%7D%5Cleft%28%5Cmathbf%7Br%7D%27%20%5Cright%20%29G%5Cleft%28%5Cmathbf%7Br%7D%2C%20%5Cmathbf%7Br%7D%27%20%5Cright%20%29dS%27%20&plus;%20%5Cfrac%7B1%7D%7Bk%5E2_0%7D%20%5Cnabla%5Cint_S%20G%5Cleft%28%5Cmathbf%7Br%7D%2C%20%5Cmathbf%7Br%7D%27%20%5Cright%20%29%20%5Cnabla%27%20%5Ccdot%20%5Cmathbf%7BJ%7D%5Cleft%28%5Cmathbf%7Br%7D%27%20%5Cright%20%29%20dS%27%5Cright%20%5D)
+
+The integral part of this expression can be analogous to the inductance in the formula of impedance. Therefore, one can use Z to express this operator.
+
+![L-Operator-Z2](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cmathcal%7BL%7D%5Cleft%5B%5Cmathbf%7BJ%7D%5Cleft%28%5Cmathbf%7Br%7D%20%5Cright%20%29%20%5Cright%20%5D%3D%5Cmathbf%7BZ%7D%5Cleft%5B%5Cmathbf%7BJ%7D%5Cleft%28%5Cmathbf%7Br%7D%20%5Cright%20%29%20%5Cright%5D%3D%5Cmathbf%7BE%7D%5Ei_%7B%5Ctext%7Btan%7D%7D%5Cleft%28%5Cmathbf%7Br%7D%20%5Cright%20%29)
+
 On the surface:
 
 ![BC-With-Operator](http://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cleft%5B%20%5Cmathcal%7BL%7D%5Cleft%20%5B%20%5Cmathbf%7BJ%7D%5Cleft%20%28%20%5Cmathbf%7Br%7D%20%5Cright%20%29%20%5Cright%20%5D%20-%20%5Cmathbf%7BE%7D%5Ei%5Cleft%20%28%20%5Cmathbf%7Br%7D%20%5Cright%20%29%20%5Cright%20%5D_%7B%5Ctext%7Btan%7D%7D%20%3D%200%2C%20%5Cmathbf%7Br%7D%5Cin%20S)
